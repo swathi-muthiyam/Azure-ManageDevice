@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Trac.BulkDeviceManagement.FuncApp": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}

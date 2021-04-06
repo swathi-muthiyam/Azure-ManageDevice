@@ -1,0 +1,15 @@
+D:\Personal-Dev\GitHub\Azure-ManageDevice\Trac.Core.ADT.Manager\bin\Debug\netcoreapp3.1\KeyVaultReplicaSecrets.json
+D:\Personal-Dev\GitHub\Azure-ManageDevice\Trac.Core.ADT.Manager\bin\Debug\netcoreapp3.1\Trac.Core.ADT.Manager.deps.json
+D:\Personal-Dev\GitHub\Azure-ManageDevice\Trac.Core.ADT.Manager\bin\Debug\netcoreapp3.1\Trac.Core.ADT.Manager.dll
+D:\Personal-Dev\GitHub\Azure-ManageDevice\Trac.Core.ADT.Manager\bin\Debug\netcoreapp3.1\Trac.Core.ADT.Manager.pdb
+D:\Personal-Dev\GitHub\Azure-ManageDevice\Trac.Core.ADT.Manager\bin\Debug\netcoreapp3.1\Trac.Core.ADT.Common.dll
+D:\Personal-Dev\GitHub\Azure-ManageDevice\Trac.Core.ADT.Manager\bin\Debug\netcoreapp3.1\Trac.Core.Common.Configuration.dll
+D:\Personal-Dev\GitHub\Azure-ManageDevice\Trac.Core.ADT.Manager\bin\Debug\netcoreapp3.1\Trac.Core.ADT.Common.pdb
+D:\Personal-Dev\GitHub\Azure-ManageDevice\Trac.Core.ADT.Manager\bin\Debug\netcoreapp3.1\Trac.Core.Common.Configuration.pdb
+D:\Personal-Dev\GitHub\Azure-ManageDevice\Trac.Core.ADT.Manager\obj\Debug\netcoreapp3.1\Trac.Core.ADT.Manager.csprojAssemblyReference.cache
+D:\Personal-Dev\GitHub\Azure-ManageDevice\Trac.Core.ADT.Manager\obj\Debug\netcoreapp3.1\Trac.Core.ADT.Manager.AssemblyInfoInputs.cache
+D:\Personal-Dev\GitHub\Azure-ManageDevice\Trac.Core.ADT.Manager\obj\Debug\netcoreapp3.1\Trac.Core.ADT.Manager.AssemblyInfo.cs
+D:\Personal-Dev\GitHub\Azure-ManageDevice\Trac.Core.ADT.Manager\obj\Debug\netcoreapp3.1\Trac.Core.ADT.Manager.csproj.CoreCompileInputs.cache
+D:\Personal-Dev\GitHub\Azure-ManageDevice\Trac.Core.ADT.Manager\obj\Debug\netcoreapp3.1\Trac.Core.ADT.Manager.csproj.CopyComplete
+D:\Personal-Dev\GitHub\Azure-ManageDevice\Trac.Core.ADT.Manager\obj\Debug\netcoreapp3.1\Trac.Core.ADT.Manager.dll
+D:\Personal-Dev\GitHub\Azure-ManageDevice\Trac.Core.ADT.Manager\obj\Debug\netcoreapp3.1\Trac.Core.ADT.Manager.pdb

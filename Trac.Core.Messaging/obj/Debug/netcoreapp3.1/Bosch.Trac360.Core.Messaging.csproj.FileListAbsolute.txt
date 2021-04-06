@@ -1,0 +1,9 @@
+D:\RobertBosch-SourceCode\Source\v0.1\Trac360\Trac360\Bosch.Trac360.Core.Messaging\bin\Debug\netcoreapp3.1\Bosch.Trac360.Core.Messaging.deps.json
+D:\RobertBosch-SourceCode\Source\v0.1\Trac360\Trac360\Bosch.Trac360.Core.Messaging\bin\Debug\netcoreapp3.1\Bosch.Trac360.Core.Messaging.dll
+D:\RobertBosch-SourceCode\Source\v0.1\Trac360\Trac360\Bosch.Trac360.Core.Messaging\bin\Debug\netcoreapp3.1\Bosch.Trac360.Core.Messaging.pdb
+D:\RobertBosch-SourceCode\Source\v0.1\Trac360\Trac360\Bosch.Trac360.Core.Messaging\obj\Debug\netcoreapp3.1\Bosch.Trac360.Core.Messaging.csprojAssemblyReference.cache
+D:\RobertBosch-SourceCode\Source\v0.1\Trac360\Trac360\Bosch.Trac360.Core.Messaging\obj\Debug\netcoreapp3.1\Bosch.Trac360.Core.Messaging.AssemblyInfoInputs.cache
+D:\RobertBosch-SourceCode\Source\v0.1\Trac360\Trac360\Bosch.Trac360.Core.Messaging\obj\Debug\netcoreapp3.1\Bosch.Trac360.Core.Messaging.AssemblyInfo.cs
+D:\RobertBosch-SourceCode\Source\v0.1\Trac360\Trac360\Bosch.Trac360.Core.Messaging\obj\Debug\netcoreapp3.1\Bosch.Trac360.Core.Messaging.csproj.CoreCompileInputs.cache
+D:\RobertBosch-SourceCode\Source\v0.1\Trac360\Trac360\Bosch.Trac360.Core.Messaging\obj\Debug\netcoreapp3.1\Bosch.Trac360.Core.Messaging.dll
+D:\RobertBosch-SourceCode\Source\v0.1\Trac360\Trac360\Bosch.Trac360.Core.Messaging\obj\Debug\netcoreapp3.1\Bosch.Trac360.Core.Messaging.pdb

@@ -1,0 +1,9 @@
+D:\Personal-Dev\GitHub\Azure-ManageDevice\Trac.Core.ADT.Common\bin\Debug\netcoreapp3.1\Trac.Core.ADT.Common.deps.json
+D:\Personal-Dev\GitHub\Azure-ManageDevice\Trac.Core.ADT.Common\bin\Debug\netcoreapp3.1\Trac.Core.ADT.Common.dll
+D:\Personal-Dev\GitHub\Azure-ManageDevice\Trac.Core.ADT.Common\bin\Debug\netcoreapp3.1\Trac.Core.ADT.Common.pdb
+D:\Personal-Dev\GitHub\Azure-ManageDevice\Trac.Core.ADT.Common\obj\Debug\netcoreapp3.1\Trac.Core.ADT.Common.csprojAssemblyReference.cache
+D:\Personal-Dev\GitHub\Azure-ManageDevice\Trac.Core.ADT.Common\obj\Debug\netcoreapp3.1\Trac.Core.ADT.Common.AssemblyInfoInputs.cache
+D:\Personal-Dev\GitHub\Azure-ManageDevice\Trac.Core.ADT.Common\obj\Debug\netcoreapp3.1\Trac.Core.ADT.Common.AssemblyInfo.cs
+D:\Personal-Dev\GitHub\Azure-ManageDevice\Trac.Core.ADT.Common\obj\Debug\netcoreapp3.1\Trac.Core.ADT.Common.csproj.CoreCompileInputs.cache
+D:\Personal-Dev\GitHub\Azure-ManageDevice\Trac.Core.ADT.Common\obj\Debug\netcoreapp3.1\Trac.Core.ADT.Common.dll
+D:\Personal-Dev\GitHub\Azure-ManageDevice\Trac.Core.ADT.Common\obj\Debug\netcoreapp3.1\Trac.Core.ADT.Common.pdb

@@ -1,0 +1,10 @@
+D:\RobertBosch-SourceCode\Source\v0.1\Trac360\Trac360\Bosch.Trac360.Core.Common.Configuration\bin\Debug\netcoreapp3.1\KeyVaultReplicaSecrets.json
+D:\RobertBosch-SourceCode\Source\v0.1\Trac360\Trac360\Bosch.Trac360.Core.Common.Configuration\bin\Debug\netcoreapp3.1\Bosch.Trac360.Core.Common.Configuration.deps.json
+D:\RobertBosch-SourceCode\Source\v0.1\Trac360\Trac360\Bosch.Trac360.Core.Common.Configuration\bin\Debug\netcoreapp3.1\Bosch.Trac360.Core.Common.Configuration.dll
+D:\RobertBosch-SourceCode\Source\v0.1\Trac360\Trac360\Bosch.Trac360.Core.Common.Configuration\bin\Debug\netcoreapp3.1\Bosch.Trac360.Core.Common.Configuration.pdb
+D:\RobertBosch-SourceCode\Source\v0.1\Trac360\Trac360\Bosch.Trac360.Core.Common.Configuration\obj\Debug\netcoreapp3.1\Bosch.Trac360.Core.Common.Configuration.AssemblyInfoInputs.cache
+D:\RobertBosch-SourceCode\Source\v0.1\Trac360\Trac360\Bosch.Trac360.Core.Common.Configuration\obj\Debug\netcoreapp3.1\Bosch.Trac360.Core.Common.Configuration.AssemblyInfo.cs
+D:\RobertBosch-SourceCode\Source\v0.1\Trac360\Trac360\Bosch.Trac360.Core.Common.Configuration\obj\Debug\netcoreapp3.1\Bosch.Trac360.Core.Common.Configuration.csproj.CoreCompileInputs.cache
+D:\RobertBosch-SourceCode\Source\v0.1\Trac360\Trac360\Bosch.Trac360.Core.Common.Configuration\obj\Debug\netcoreapp3.1\Bosch.Trac360.Core.Common.Configuration.dll
+D:\RobertBosch-SourceCode\Source\v0.1\Trac360\Trac360\Bosch.Trac360.Core.Common.Configuration\obj\Debug\netcoreapp3.1\Bosch.Trac360.Core.Common.Configuration.pdb
+D:\RobertBosch-SourceCode\Source\v0.1\Trac360\Trac360\Bosch.Trac360.Core.Common.Configuration\obj\Debug\netcoreapp3.1\Bosch.Trac360.Core.Common.Configuration.csprojAssemblyReference.cache

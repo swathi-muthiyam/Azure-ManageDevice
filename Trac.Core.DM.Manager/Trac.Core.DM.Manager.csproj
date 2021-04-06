@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Azure.Storage.Blobs" Version="12.5.1" />
+    <PackageReference Include="Microsoft.Azure.Common" Version="2.2.1" />
+    <PackageReference Include="Microsoft.Azure.Devices" Version="1.22.0" />
+    <PackageReference Include="Microsoft.Azure.Devices.Client" Version="1.27.0" />
+    <PackageReference Include="Microsoft.Azure.Devices.Provisioning.Client" Version="1.6.0" />
+    <PackageReference Include="Microsoft.Azure.Devices.Provisioning.Transport.Amqp" Version="1.3.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Trac.Core.ADT.Manager\Trac.Core.ADT.Manager.csproj" />
+    <ProjectReference Include="..\Trac.Core.Common\Trac.Core.Common.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+D:\Personal-Dev\GitHub\Azure-ManageDevice\Trac.Core.Common\bin\Debug\netcoreapp3.1\Trac.Core.Common.deps.json
+D:\Personal-Dev\GitHub\Azure-ManageDevice\Trac.Core.Common\bin\Debug\netcoreapp3.1\Trac.Core.Common.dll
+D:\Personal-Dev\GitHub\Azure-ManageDevice\Trac.Core.Common\bin\Debug\netcoreapp3.1\Trac.Core.Common.pdb
+D:\Personal-Dev\GitHub\Azure-ManageDevice\Trac.Core.Common\bin\Debug\netcoreapp3.1\Trac.Core.Messaging.dll
+D:\Personal-Dev\GitHub\Azure-ManageDevice\Trac.Core.Common\bin\Debug\netcoreapp3.1\Trac.Core.Messaging.pdb
+D:\Personal-Dev\GitHub\Azure-ManageDevice\Trac.Core.Common\obj\Debug\netcoreapp3.1\Trac.Core.Common.csprojAssemblyReference.cache
+D:\Personal-Dev\GitHub\Azure-ManageDevice\Trac.Core.Common\obj\Debug\netcoreapp3.1\Trac.Core.Common.AssemblyInfoInputs.cache
+D:\Personal-Dev\GitHub\Azure-ManageDevice\Trac.Core.Common\obj\Debug\netcoreapp3.1\Trac.Core.Common.AssemblyInfo.cs
+D:\Personal-Dev\GitHub\Azure-ManageDevice\Trac.Core.Common\obj\Debug\netcoreapp3.1\Trac.Core.Common.csproj.CoreCompileInputs.cache
+D:\Personal-Dev\GitHub\Azure-ManageDevice\Trac.Core.Common\obj\Debug\netcoreapp3.1\Trac.Core.Common.csproj.CopyComplete
+D:\Personal-Dev\GitHub\Azure-ManageDevice\Trac.Core.Common\obj\Debug\netcoreapp3.1\Trac.Core.Common.dll
+D:\Personal-Dev\GitHub\Azure-ManageDevice\Trac.Core.Common\obj\Debug\netcoreapp3.1\Trac.Core.Common.pdb

@@ -1,0 +1,519 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Personal-Dev\\GitHub\\Azure-ManageDevice\\Trac.Core.DeviceManagement.API\\Trac.Core.DeviceManagement.API.csproj": {}
+  },
+  "projects": {
+    "D:\\Personal-Dev\\GitHub\\Azure-ManageDevice\\Trac.Core.ADT.Common\\Trac.Core.ADT.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Personal-Dev\\GitHub\\Azure-ManageDevice\\Trac.Core.ADT.Common\\Trac.Core.ADT.Common.csproj",
+        "projectName": "Trac.Core.ADT.Common",
+        "projectPath": "D:\\Personal-Dev\\GitHub\\Azure-ManageDevice\\Trac.Core.ADT.Common\\Trac.Core.ADT.Common.csproj",
+        "packagesPath": "C:\\Users\\Likhil\\.nuget\\packages\\",
+        "outputPath": "D:\\Personal-Dev\\GitHub\\Azure-ManageDevice\\Trac.Core.ADT.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Likhil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Personal-Dev\\GitHub\\Azure-ManageDevice\\Trac.Core.ADT.Manager\\Trac.Core.ADT.Manager.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Personal-Dev\\GitHub\\Azure-ManageDevice\\Trac.Core.ADT.Manager\\Trac.Core.ADT.Manager.csproj",
+        "projectName": "Trac.Core.ADT.Manager",
+        "projectPath": "D:\\Personal-Dev\\GitHub\\Azure-ManageDevice\\Trac.Core.ADT.Manager\\Trac.Core.ADT.Manager.csproj",
+        "packagesPath": "C:\\Users\\Likhil\\.nuget\\packages\\",
+        "outputPath": "D:\\Personal-Dev\\GitHub\\Azure-ManageDevice\\Trac.Core.ADT.Manager\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Likhil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Personal-Dev\\GitHub\\Azure-ManageDevice\\Trac.Core.ADT.Common\\Trac.Core.ADT.Common.csproj": {
+                "projectPath": "D:\\Personal-Dev\\GitHub\\Azure-ManageDevice\\Trac.Core.ADT.Common\\Trac.Core.ADT.Common.csproj"
+              },
+              "D:\\Personal-Dev\\GitHub\\Azure-ManageDevice\\Trac.Core.Common.Configuration\\Trac.Core.Common.Configuration.csproj": {
+                "projectPath": "D:\\Personal-Dev\\GitHub\\Azure-ManageDevice\\Trac.Core.Common.Configuration\\Trac.Core.Common.Configuration.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AsyncEnumerator": {
+              "target": "Package",
+              "version": "[4.0.2, )"
+            },
+            "Azure.DigitalTwins.Core": {
+              "target": "Package",
+              "version": "[1.0.0-preview.3, )"
+            },
+            "Azure.Identity": {
+              "target": "Package",
+              "version": "[1.2.0-preview.6, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Personal-Dev\\GitHub\\Azure-ManageDevice\\Trac.Core.Common.Configuration\\Trac.Core.Common.Configuration.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Personal-Dev\\GitHub\\Azure-ManageDevice\\Trac.Core.Common.Configuration\\Trac.Core.Common.Configuration.csproj",
+        "projectName": "Trac.Core.Common.Configuration",
+        "projectPath": "D:\\Personal-Dev\\GitHub\\Azure-ManageDevice\\Trac.Core.Common.Configuration\\Trac.Core.Common.Configuration.csproj",
+        "packagesPath": "C:\\Users\\Likhil\\.nuget\\packages\\",
+        "outputPath": "D:\\Personal-Dev\\GitHub\\Azure-ManageDevice\\Trac.Core.Common.Configuration\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Likhil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Personal-Dev\\GitHub\\Azure-ManageDevice\\Trac.Core.Common\\Trac.Core.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Personal-Dev\\GitHub\\Azure-ManageDevice\\Trac.Core.Common\\Trac.Core.Common.csproj",
+        "projectName": "Trac.Core.Common",
+        "projectPath": "D:\\Personal-Dev\\GitHub\\Azure-ManageDevice\\Trac.Core.Common\\Trac.Core.Common.csproj",
+        "packagesPath": "C:\\Users\\Likhil\\.nuget\\packages\\",
+        "outputPath": "D:\\Personal-Dev\\GitHub\\Azure-ManageDevice\\Trac.Core.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Likhil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Personal-Dev\\GitHub\\Azure-ManageDevice\\Trac.Core.Messaging\\Trac.Core.Messaging.csproj": {
+                "projectPath": "D:\\Personal-Dev\\GitHub\\Azure-ManageDevice\\Trac.Core.Messaging\\Trac.Core.Messaging.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[15.0.5, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Personal-Dev\\GitHub\\Azure-ManageDevice\\Trac.Core.DeviceManagement.API\\Trac.Core.DeviceManagement.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Personal-Dev\\GitHub\\Azure-ManageDevice\\Trac.Core.DeviceManagement.API\\Trac.Core.DeviceManagement.API.csproj",
+        "projectName": "Trac.Core.DeviceManagement.API",
+        "projectPath": "D:\\Personal-Dev\\GitHub\\Azure-ManageDevice\\Trac.Core.DeviceManagement.API\\Trac.Core.DeviceManagement.API.csproj",
+        "packagesPath": "C:\\Users\\Likhil\\.nuget\\packages\\",
+        "outputPath": "D:\\Personal-Dev\\GitHub\\Azure-ManageDevice\\Trac.Core.DeviceManagement.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Likhil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Personal-Dev\\GitHub\\Azure-ManageDevice\\Trac.Core.Common\\Trac.Core.Common.csproj": {
+                "projectPath": "D:\\Personal-Dev\\GitHub\\Azure-ManageDevice\\Trac.Core.Common\\Trac.Core.Common.csproj"
+              },
+              "D:\\Personal-Dev\\GitHub\\Azure-ManageDevice\\Trac.Core.DM.Manager\\Trac.Core.DM.Manager.csproj": {
+                "projectPath": "D:\\Personal-Dev\\GitHub\\Azure-ManageDevice\\Trac.Core.DM.Manager\\Trac.Core.DM.Manager.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNet.WebApi.Client": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Personal-Dev\\GitHub\\Azure-ManageDevice\\Trac.Core.DM.Manager\\Trac.Core.DM.Manager.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Personal-Dev\\GitHub\\Azure-ManageDevice\\Trac.Core.DM.Manager\\Trac.Core.DM.Manager.csproj",
+        "projectName": "Trac.Core.DM.Manager",
+        "projectPath": "D:\\Personal-Dev\\GitHub\\Azure-ManageDevice\\Trac.Core.DM.Manager\\Trac.Core.DM.Manager.csproj",
+        "packagesPath": "C:\\Users\\Likhil\\.nuget\\packages\\",
+        "outputPath": "D:\\Personal-Dev\\GitHub\\Azure-ManageDevice\\Trac.Core.DM.Manager\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Likhil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Personal-Dev\\GitHub\\Azure-ManageDevice\\Trac.Core.ADT.Manager\\Trac.Core.ADT.Manager.csproj": {
+                "projectPath": "D:\\Personal-Dev\\GitHub\\Azure-ManageDevice\\Trac.Core.ADT.Manager\\Trac.Core.ADT.Manager.csproj"
+              },
+              "D:\\Personal-Dev\\GitHub\\Azure-ManageDevice\\Trac.Core.Common\\Trac.Core.Common.csproj": {
+                "projectPath": "D:\\Personal-Dev\\GitHub\\Azure-ManageDevice\\Trac.Core.Common\\Trac.Core.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Azure.Storage.Blobs": {
+              "target": "Package",
+              "version": "[12.5.1, )"
+            },
+            "Microsoft.Azure.Common": {
+              "target": "Package",
+              "version": "[2.2.1, )"
+            },
+            "Microsoft.Azure.Devices": {
+              "target": "Package",
+              "version": "[1.22.0, )"
+            },
+            "Microsoft.Azure.Devices.Client": {
+              "target": "Package",
+              "version": "[1.27.0, )"
+            },
+            "Microsoft.Azure.Devices.Provisioning.Client": {
+              "target": "Package",
+              "version": "[1.6.0, )"
+            },
+            "Microsoft.Azure.Devices.Provisioning.Transport.Amqp": {
+              "target": "Package",
+              "version": "[1.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Personal-Dev\\GitHub\\Azure-ManageDevice\\Trac.Core.Messaging\\Trac.Core.Messaging.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Personal-Dev\\GitHub\\Azure-ManageDevice\\Trac.Core.Messaging\\Trac.Core.Messaging.csproj",
+        "projectName": "Trac.Core.Messaging",
+        "projectPath": "D:\\Personal-Dev\\GitHub\\Azure-ManageDevice\\Trac.Core.Messaging\\Trac.Core.Messaging.csproj",
+        "packagesPath": "C:\\Users\\Likhil\\.nuget\\packages\\",
+        "outputPath": "D:\\Personal-Dev\\GitHub\\Azure-ManageDevice\\Trac.Core.Messaging\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Likhil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

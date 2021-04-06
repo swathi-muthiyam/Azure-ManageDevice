@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="BoschTrac360CoreDeviceManagementAPI20210314112625" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\RobertBosch-SourceCode\\Source\\v0\.1\\Trac360\\Trac360\\Bosch\.Trac360\.Core\.DeviceManagement\.API\\obj\\Release\\netcoreapp3\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

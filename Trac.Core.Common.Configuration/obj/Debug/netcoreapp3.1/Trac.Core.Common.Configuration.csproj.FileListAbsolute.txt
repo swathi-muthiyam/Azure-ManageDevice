@@ -1,0 +1,10 @@
+D:\Personal-Dev\GitHub\Azure-ManageDevice\Trac.Core.Common.Configuration\bin\Debug\netcoreapp3.1\KeyVaultReplicaSecrets.json
+D:\Personal-Dev\GitHub\Azure-ManageDevice\Trac.Core.Common.Configuration\bin\Debug\netcoreapp3.1\Trac.Core.Common.Configuration.deps.json
+D:\Personal-Dev\GitHub\Azure-ManageDevice\Trac.Core.Common.Configuration\bin\Debug\netcoreapp3.1\Trac.Core.Common.Configuration.dll
+D:\Personal-Dev\GitHub\Azure-ManageDevice\Trac.Core.Common.Configuration\bin\Debug\netcoreapp3.1\Trac.Core.Common.Configuration.pdb
+D:\Personal-Dev\GitHub\Azure-ManageDevice\Trac.Core.Common.Configuration\obj\Debug\netcoreapp3.1\Trac.Core.Common.Configuration.csprojAssemblyReference.cache
+D:\Personal-Dev\GitHub\Azure-ManageDevice\Trac.Core.Common.Configuration\obj\Debug\netcoreapp3.1\Trac.Core.Common.Configuration.AssemblyInfoInputs.cache
+D:\Personal-Dev\GitHub\Azure-ManageDevice\Trac.Core.Common.Configuration\obj\Debug\netcoreapp3.1\Trac.Core.Common.Configuration.AssemblyInfo.cs
+D:\Personal-Dev\GitHub\Azure-ManageDevice\Trac.Core.Common.Configuration\obj\Debug\netcoreapp3.1\Trac.Core.Common.Configuration.csproj.CoreCompileInputs.cache
+D:\Personal-Dev\GitHub\Azure-ManageDevice\Trac.Core.Common.Configuration\obj\Debug\netcoreapp3.1\Trac.Core.Common.Configuration.dll
+D:\Personal-Dev\GitHub\Azure-ManageDevice\Trac.Core.Common.Configuration\obj\Debug\netcoreapp3.1\Trac.Core.Common.Configuration.pdb

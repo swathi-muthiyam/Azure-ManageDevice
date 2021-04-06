@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4WrtKfEr/rSRvhFzxhTs9BfIsVBI0DRIzlUi17aQWuDARZiUReMiyBUdh8o0j+up4JvgAuoQrYjYq/ZTY1SL5g==",
+  "success": true,
+  "projectFilePath": "D:\\RobertBosch-SourceCode\\Source\\v0.1\\Trac360\\Trac360\\Device.Simulator.BlazorApp\\Device.Simulator.BlazorApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Likhil\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

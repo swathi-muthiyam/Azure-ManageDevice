@@ -1,0 +1,12 @@
+D:\RobertBosch-SourceCode\Source\v0.1\Trac360\Trac360\Bosch.Trac360.Core.Common\bin\Release\netcoreapp3.1\Bosch.Trac360.Core.Common.deps.json
+D:\RobertBosch-SourceCode\Source\v0.1\Trac360\Trac360\Bosch.Trac360.Core.Common\bin\Release\netcoreapp3.1\Bosch.Trac360.Core.Common.dll
+D:\RobertBosch-SourceCode\Source\v0.1\Trac360\Trac360\Bosch.Trac360.Core.Common\bin\Release\netcoreapp3.1\Bosch.Trac360.Core.Common.pdb
+D:\RobertBosch-SourceCode\Source\v0.1\Trac360\Trac360\Bosch.Trac360.Core.Common\bin\Release\netcoreapp3.1\Bosch.Trac360.Core.Messaging.dll
+D:\RobertBosch-SourceCode\Source\v0.1\Trac360\Trac360\Bosch.Trac360.Core.Common\bin\Release\netcoreapp3.1\Bosch.Trac360.Core.Messaging.pdb
+D:\RobertBosch-SourceCode\Source\v0.1\Trac360\Trac360\Bosch.Trac360.Core.Common\obj\Release\netcoreapp3.1\Bosch.Trac360.Core.Common.csprojAssemblyReference.cache
+D:\RobertBosch-SourceCode\Source\v0.1\Trac360\Trac360\Bosch.Trac360.Core.Common\obj\Release\netcoreapp3.1\Bosch.Trac360.Core.Common.AssemblyInfoInputs.cache
+D:\RobertBosch-SourceCode\Source\v0.1\Trac360\Trac360\Bosch.Trac360.Core.Common\obj\Release\netcoreapp3.1\Bosch.Trac360.Core.Common.AssemblyInfo.cs
+D:\RobertBosch-SourceCode\Source\v0.1\Trac360\Trac360\Bosch.Trac360.Core.Common\obj\Release\netcoreapp3.1\Bosch.Trac360.Core.Common.csproj.CoreCompileInputs.cache
+D:\RobertBosch-SourceCode\Source\v0.1\Trac360\Trac360\Bosch.Trac360.Core.Common\obj\Release\netcoreapp3.1\Bosch.Trac360.Core.Common.csproj.CopyComplete
+D:\RobertBosch-SourceCode\Source\v0.1\Trac360\Trac360\Bosch.Trac360.Core.Common\obj\Release\netcoreapp3.1\Bosch.Trac360.Core.Common.dll
+D:\RobertBosch-SourceCode\Source\v0.1\Trac360\Trac360\Bosch.Trac360.Core.Common\obj\Release\netcoreapp3.1\Bosch.Trac360.Core.Common.pdb

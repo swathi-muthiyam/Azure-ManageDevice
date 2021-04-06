@@ -1,0 +1,9 @@
+D:\Personal-Dev\GitHub\Azure-ManageDevice\Trac.Core.Messaging\bin\Debug\netcoreapp3.1\Trac.Core.Messaging.deps.json
+D:\Personal-Dev\GitHub\Azure-ManageDevice\Trac.Core.Messaging\bin\Debug\netcoreapp3.1\Trac.Core.Messaging.dll
+D:\Personal-Dev\GitHub\Azure-ManageDevice\Trac.Core.Messaging\bin\Debug\netcoreapp3.1\Trac.Core.Messaging.pdb
+D:\Personal-Dev\GitHub\Azure-ManageDevice\Trac.Core.Messaging\obj\Debug\netcoreapp3.1\Trac.Core.Messaging.csprojAssemblyReference.cache
+D:\Personal-Dev\GitHub\Azure-ManageDevice\Trac.Core.Messaging\obj\Debug\netcoreapp3.1\Trac.Core.Messaging.AssemblyInfoInputs.cache
+D:\Personal-Dev\GitHub\Azure-ManageDevice\Trac.Core.Messaging\obj\Debug\netcoreapp3.1\Trac.Core.Messaging.AssemblyInfo.cs
+D:\Personal-Dev\GitHub\Azure-ManageDevice\Trac.Core.Messaging\obj\Debug\netcoreapp3.1\Trac.Core.Messaging.csproj.CoreCompileInputs.cache
+D:\Personal-Dev\GitHub\Azure-ManageDevice\Trac.Core.Messaging\obj\Debug\netcoreapp3.1\Trac.Core.Messaging.dll
+D:\Personal-Dev\GitHub\Azure-ManageDevice\Trac.Core.Messaging\obj\Debug\netcoreapp3.1\Trac.Core.Messaging.pdb

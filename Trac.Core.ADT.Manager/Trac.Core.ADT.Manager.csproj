@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AsyncEnumerator" Version="4.0.2" />
+    <PackageReference Include="Azure.DigitalTwins.Core" Version="1.0.0-preview.3" />
+    <PackageReference Include="Azure.Identity" Version="1.2.0-preview.6" />
+    <PackageReference Include="Microsoft.Extensions.Options" Version="3.1.7" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Trac.Core.ADT.Common\Trac.Core.ADT.Common.csproj" />
+    <ProjectReference Include="..\Trac.Core.Common.Configuration\Trac.Core.Common.Configuration.csproj">
+      <Private>true</Private>
+    </ProjectReference>
+  </ItemGroup>
+
+</Project>

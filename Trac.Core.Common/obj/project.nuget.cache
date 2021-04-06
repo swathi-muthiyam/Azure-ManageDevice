@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3hwT0ATx+rPr1BAWTxeU3dZ/pVXHLR0kWSFha6mbg4F3yStsVS0UDFgrzRhgFJFtJJ1rYaB2MArOzpMszhY4lQ==",
+  "success": true,
+  "projectFilePath": "D:\\Personal-Dev\\GitHub\\Azure-ManageDevice\\Trac.Core.Common\\Trac.Core.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Likhil\\.nuget\\packages\\csvhelper\\15.0.5\\csvhelper.15.0.5.nupkg.sha512",
+    "C:\\Users\\Likhil\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Likhil\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

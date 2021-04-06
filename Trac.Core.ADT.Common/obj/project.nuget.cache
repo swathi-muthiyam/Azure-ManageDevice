@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8WIK/pbJlhJ8rwUZKkdvuuBNswVkyT5QwSiVRAUCsi2Cbl6xDfeQ9Kbej7GRwo3dEvR66WSyx5Y0/mCrEyvAzQ==",
+  "success": true,
+  "projectFilePath": "D:\\Personal-Dev\\GitHub\\Azure-ManageDevice\\Trac.Core.ADT.Common\\Trac.Core.ADT.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Likhil\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
